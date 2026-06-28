@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("avalyos_quantum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3e9ce46e80a8a2a442b6784b93cb3681f6ecfae")]
 [assembly: System.Reflection.AssemblyProductAttribute("avalyos_quantum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("avalyos_quantum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
