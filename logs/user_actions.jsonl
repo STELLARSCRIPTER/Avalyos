@@ -1,0 +1,38 @@
+{"id": "8a63eb09-34d0-499d-bbaa-b20881b5768d", "timestamp": "2025-11-28T09:24:34.165958", "user_id": "anonymous", "action_type": "simulate", "target": "monte_carlo", "details": {"n_samples": 10000}}
+{"id": "8eabf5ae-b4fb-490e-82fc-b3631368637e", "timestamp": "2025-11-28T09:24:50.091081", "user_id": "anonymous", "action_type": "simulate", "target": "monte_carlo_10k", "details": {"n_samples": 10000, "estimated_minutes": 0.0009613333331041455}}
+{"id": "27c855c1-a857-4b9c-9fdc-895d38923b47", "timestamp": "2025-11-28T09:25:06.185656", "user_id": "anonymous", "action_type": "simulate", "target": "HQ-001", "details": {"type": "single_sample"}}
+{"id": "c501f36c-432b-4a7a-8e33-54e3aa97cdfa", "timestamp": "2025-11-28T09:25:14.027809", "user_id": "anonymous", "action_type": "simulate", "target": "monte_carlo", "details": {"n_samples": 5450}}
+{"id": "ef022432-3b34-48d0-8649-b40c4231b907", "timestamp": "2025-11-28T09:25:17.700874", "user_id": "anonymous", "action_type": "simulate", "target": "monte_carlo", "details": {"n_samples": 10000}}
+{"id": "290f8bbd-b494-4e9c-a5d8-0517a7ea3343", "timestamp": "2025-11-28T09:25:18.860206", "user_id": "anonymous", "action_type": "simulate", "target": "monte_carlo", "details": {"n_samples": 10000}}
+{"id": "f9f39602-ce50-4d07-ba50-d6816bcd950e", "timestamp": "2025-11-28T09:25:19.653562", "user_id": "anonymous", "action_type": "simulate", "target": "monte_carlo", "details": {"n_samples": 10000}}
+{"id": "f2819b18-ecbb-409d-918e-614e9ad803a0", "timestamp": "2025-11-28T09:25:20.576013", "user_id": "anonymous", "action_type": "simulate", "target": "monte_carlo", "details": {"n_samples": 10000}}
+{"id": "08acf889-f955-4298-ad62-6e2821c1f967", "timestamp": "2025-11-28T09:29:32.509565", "user_id": "anonymous", "action_type": "search", "target": "Apple", "details": {"results": 1}}
+{"id": "dc8a2c67-a3ad-4f3a-8a46-d61a8529dc9d", "timestamp": "2025-11-28T09:29:38.831821", "user_id": "anonymous", "action_type": "search", "target": "Apple", "details": {"results": 1}}
+{"id": "c230dd67-9d69-4315-b262-c2a03b2b1777", "timestamp": "2025-11-28T09:29:38.863310", "user_id": "anonymous", "action_type": "select", "target": "Apple", "details": {"code": "ap", "num_branches": 6}}
+{"id": "0f155b35-7fbd-4940-8df3-8453a5875865", "timestamp": "2025-11-28T09:29:38.999076", "user_id": "anonymous", "action_type": "distribution", "target": "Apple", "details": {"num_branches": 6}}
+{"id": "a24cba33-4470-4bdd-b25c-e0e1e98fcff1", "timestamp": "2025-11-28T09:30:19.930123", "user_id": "anonymous", "action_type": "navigate", "target": "Oceania/Australia/Victoria/Geelong", "details": {"company_count": 0}}
+{"id": "5b479341-e881-4bf0-b95b-cc17155c2aef", "timestamp": "2025-11-28T09:30:22.964195", "user_id": "anonymous", "action_type": "navigate", "target": "Oceania/Australia/Victoria/Melbourne", "details": {"company_count": 0}}
+{"id": "121095a1-c4cf-41f8-9c33-2b85d702b021", "timestamp": "2025-12-05T08:21:59.178380", "user_id": "anonymous", "action_type": "simulate", "target": "monte_carlo", "details": {"n_samples": 10000}}
+{"id": "72d76cca-553e-4e1b-ba91-e3dfcb988046", "timestamp": "2025-12-05T08:59:24.143439", "user_id": "anonymous", "action_type": "navigate", "target": "Asia/South Korea/Seoul/Seoul", "details": {"company_count": 0}}
+{"id": "3972811d-8579-41da-a99c-9fc0c8b0e097", "timestamp": "2025-12-05T08:59:46.394142", "user_id": "anonymous", "action_type": "search", "target": "BMW", "details": {"results": 1}}
+{"id": "b476d072-e31f-4c34-a2fd-136abfe640c2", "timestamp": "2025-12-05T08:59:56.583140", "user_id": "anonymous", "action_type": "search", "target": "BMW", "details": {"results": 1}}
+{"id": "2f129571-ec50-4781-9bb6-ab246deca16a", "timestamp": "2025-12-05T08:59:56.625247", "user_id": "anonymous", "action_type": "select", "target": "BMW", "details": {"code": "bm", "num_branches": 6}}
+{"id": "9f189306-a22f-4bb2-a052-599698f381b1", "timestamp": "2025-12-05T08:59:56.795193", "user_id": "anonymous", "action_type": "distribution", "target": "BMW", "details": {"num_branches": 6}}
+{"id": "0234fe0a-5510-47c4-88c2-cfea6a9c5a30", "timestamp": "2025-12-05T09:00:31.067362", "user_id": "anonymous", "action_type": "simulate", "target": "HQ-001", "details": {"type": "single_sample"}}
+{"id": "c4e9a925-16e6-4f64-9d3b-cf9eb82353ee", "timestamp": "2025-12-05T09:15:54.082934", "user_id": "anonymous", "action_type": "simulate", "target": "HQ-001", "details": {"type": "single_sample"}}
+{"id": "47568827-62b0-4310-89b4-efd5f15b6b8f", "timestamp": "2025-12-05T09:16:02.597739", "user_id": "anonymous", "action_type": "simulate", "target": "monte_carlo_10k", "details": {"n_samples": 10000, "estimated_minutes": 0.0008001666659159431}}
+{"id": "7f4e5e31-1d58-4d37-b8b2-d9beaf8a5f4f", "timestamp": "2025-12-05T09:16:21.939904", "user_id": "anonymous", "action_type": "simulate", "target": "monte_carlo", "details": {"n_samples": 10000}}
+{"id": "b10dbb08-8d5f-4f1a-b30b-491c85da056b", "timestamp": "2025-12-05T09:16:46.269359", "user_id": "anonymous", "action_type": "search", "target": "Apple", "details": {"results": 1}}
+{"id": "46478d0d-e35f-49f7-9bb8-c72aacd2ebe5", "timestamp": "2025-12-05T09:16:50.594239", "user_id": "anonymous", "action_type": "search", "target": "Apple", "details": {"results": 1}}
+{"id": "da7f3260-c842-4508-94d2-dffa0f888fbe", "timestamp": "2025-12-05T09:16:50.685679", "user_id": "anonymous", "action_type": "select", "target": "Apple", "details": {"code": "ap", "num_branches": 6}}
+{"id": "42e009e7-f2b2-43cc-8d7c-bef80aed8f4d", "timestamp": "2025-12-05T09:16:50.912096", "user_id": "anonymous", "action_type": "distribution", "target": "Apple", "details": {"num_branches": 6}}
+{"id": "c1ba4d23-76ca-48cc-98de-04e5610e4d11", "timestamp": "2025-12-05T13:21:09.006327", "user_id": "anonymous", "action_type": "simulate", "target": "monte_carlo_10k", "details": {"n_samples": 10000, "estimated_minutes": 0.09702099999988907}}
+{"id": "f03ea021-ff2e-4574-b830-f65795f0b1b6", "timestamp": "2025-12-05T13:21:42.921444", "user_id": "anonymous", "action_type": "search", "target": "BMW", "details": {"results": 1}}
+{"id": "a081c7c6-19aa-43fb-baeb-d941f75c8dd6", "timestamp": "2025-12-22T09:58:40.817980", "user_id": "anonymous", "action_type": "search", "target": "Samsung", "details": {"results": 1}}
+{"id": "2b48f8f5-28d6-403b-b798-099c5d103146", "timestamp": "2025-12-22T10:19:06.662828", "user_id": "anonymous", "action_type": "search", "target": "jp morgan", "details": {"results": 0}}
+{"id": "590892c1-3b8c-498d-84f0-f08b0829797a", "timestamp": "2025-12-22T10:19:22.482430", "user_id": "anonymous", "action_type": "search", "target": "black rock", "details": {"results": 0}}
+{"id": "a81473a5-2a37-4812-b885-707a7f13bdb5", "timestamp": "2025-12-22T10:19:48.016633", "user_id": "anonymous", "action_type": "simulate", "target": "HQ-001", "details": {"type": "single_sample"}}
+{"id": "4b4f7e97-3960-4e87-8a8c-e9c5245a1376", "timestamp": "2025-12-22T10:19:54.701815", "user_id": "anonymous", "action_type": "simulate", "target": "HQ-001", "details": {"type": "single_sample"}}
+{"id": "d30647ff-eb2c-4d91-b13a-f87140db7312", "timestamp": "2025-12-22T10:20:08.457552", "user_id": "anonymous", "action_type": "simulate", "target": "monte_carlo", "details": {"n_samples": 10000}}
+{"id": "b911bb72-6107-4fa8-a1b0-9c8f3a75fbfe", "timestamp": "2025-12-22T10:20:30.940972", "user_id": "anonymous", "action_type": "navigate", "target": "North America/United States/New York/New York City", "details": {"company_count": 0}}
+{"id": "d5bf60ac-1847-4de3-895e-1fa0aebdb6fc", "timestamp": "2025-12-22T10:20:34.630112", "user_id": "anonymous", "action_type": "navigate", "target": "North America/United States/New York/New York City", "details": {"company_count": 0}}

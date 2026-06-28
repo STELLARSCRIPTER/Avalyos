@@ -1,0 +1,11 @@
+{
+  "trial_n": 100,
+  "trial_elapsed_seconds": 0.8622558999923058,
+  "per_sample_seconds": 0.008622558999923058,
+  "target_n": 10000,
+  "estimated_seconds": 86.22558999923058,
+  "estimated_minutes": 1.437093166653843,
+  "actual_elapsed_seconds": 87.72256939997897,
+  "actual_elapsed_minutes": 1.4620428233329827,
+  "samples_returned": 10000
+}
